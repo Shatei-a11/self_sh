@@ -11,6 +11,8 @@ print('''
 print("  \033[36mCOLE O TOKEN SE N NAO IRA FUNCIONAR\033m")
 print("   A FERRAMENTA N RECONHECE SE ESTA CERTO O TOKEN")
 token = str(input("\n  COPIE SEU TOKEN E COLE NO TERMINAL \n"))
+mensagem = "Oi"
+id = "822481040022306899"
 
 
 def spam():
